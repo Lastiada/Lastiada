@@ -1,4 +1,4 @@
-### Hi there 👋, Im Lastiada
+### Hi there 👋
 <!--### Linkedin link-->
 ### Glad to see you here!  &nbsp;   ![](https://komarev.com/ghpvc/?username=Lastiada)
 
