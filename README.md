@@ -1,6 +1,7 @@
 ### Hi there 👋
 <!--### Linkedin link-->
-### Glad to see you here!  &nbsp;   ![](https://komarev.com/ghpvc/?username=Lastiada)
+### Glad to see you here! <br>
+![](https://komarev.com/ghpvc/?username=Lastiada)
 
 <!--### some bio -->
 
